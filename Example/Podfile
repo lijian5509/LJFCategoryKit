@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'LJFCatecoryKit_Example' do
+  pod 'LJFCatecoryKit', :path => '../'
+
+  target 'LJFCatecoryKit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
