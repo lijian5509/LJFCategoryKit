@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'LJFCategoryKit_Example' do
+  pod 'LJFCategoryKit', :path => '../'
+
+  target 'LJFCategoryKit_Tests' do
+    inherit! :search_paths
+
+    pod 'FBSnapshotTestCase'
+  end
+end
