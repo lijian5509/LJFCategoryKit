@@ -1,0 +1,6 @@
+framework module Pods_LJFCatecoryKit_Example {
+  umbrella header "Pods-LJFCatecoryKit_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

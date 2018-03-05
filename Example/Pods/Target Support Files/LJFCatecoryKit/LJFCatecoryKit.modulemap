@@ -1,0 +1,6 @@
+framework module LJFCatecoryKit {
+  umbrella header "LJFCatecoryKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

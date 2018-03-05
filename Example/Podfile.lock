@@ -1,0 +1,16 @@
+PODS:
+  - LJFCatecoryKit (0.1.0)
+
+DEPENDENCIES:
+  - LJFCatecoryKit (from `../`)
+
+EXTERNAL SOURCES:
+  LJFCatecoryKit:
+    :path: ../
+
+SPEC CHECKSUMS:
+  LJFCatecoryKit: 04307f84c2fe6fb5a24b9d735b169e81ac03992b
+
+PODFILE CHECKSUM: f68c6d88cbd17ec7258fe04955cf423e27621899
+
+COCOAPODS: 1.3.1

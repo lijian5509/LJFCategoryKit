@@ -1,0 +1,22 @@
+{
+  "name": "LJFCatecoryKit",
+  "version": "0.1.0",
+  "summary": "A short description of LJFCatecoryKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Lone/LJFCatecoryKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Lone": "lijianfan@carwins.com.cn"
+  },
+  "source": {
+    "git": "https://github.com/Lone/LJFCatecoryKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "LJFCatecoryKit/Classes/**/*"
+}
