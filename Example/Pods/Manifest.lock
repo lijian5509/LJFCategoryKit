@@ -1,0 +1,23 @@
+PODS:
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+  - LJFCategoryKit (0.1.0)
+
+DEPENDENCIES:
+  - FBSnapshotTestCase
+  - LJFCategoryKit (from `../`)
+
+EXTERNAL SOURCES:
+  LJFCategoryKit:
+    :path: ../
+
+SPEC CHECKSUMS:
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+  LJFCategoryKit: bf0d24d3db0bd88a57795f96576531df8b6a6058
+
+PODFILE CHECKSUM: baffce25dfd714f3e9c18fe1410e675572e99ae3
+
+COCOAPODS: 1.4.0
